@@ -1,1 +1,8 @@
 # bep_trcwalletAddress
+0x8A98d190f3E895DDeD683FE6EA54F1A6ee01a90d
+
+bep20
+
+trc20
+
+TYiasAbhrewzz81G13C3dFcJVen8qgSr6m
